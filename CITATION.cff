@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+title: "Enhanced Memory-Block Protocol for Latency Optimization in Long-Context GPT Dialogues"
+message: "If you use this work, please cite it as below."
+authors:
+  - family-names: Kushwaha
+    given-names: Hemant Kumar
+    orcid: https://orcid.org/0000-0002-1365-6063
+  - family-names: Kumar
+    given-names: Mayank
+  - family-names: Arun
+    given-names: Arun
+  - family-names: Prajapati
+    given-names: Siddharth
+  - family-names: Sinha
+    given-names: Mayank
+date-released: 2026
+url: https://zenodo.org/records/19107448
+repository-code: https://github.com/hemantkushwaha/MBP-Latency-Optimization-LLM
+license: MIT
